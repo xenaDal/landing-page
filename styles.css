@@ -1,0 +1,50 @@
+body {
+    background-color: #1F2937;
+    font-family: "Courier New", Monaco, Monospace;
+    margin: 48px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.top{
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 40px;
+    margin: 0 10%;
+}
+.t-one {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    color: #E5E7EB;
+    gap: 2em;
+    font-size: 18px;
+}
+
+.cat {
+   max-width: 40%;
+   height: 60%;
+}
+
+.t-two {
+    display: flex;
+}
+
+.secondarytext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+    margin: 0;
+}
