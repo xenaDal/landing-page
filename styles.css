@@ -1,7 +1,6 @@
 body {
-    background-color: #1F2937;
     font-family: "Courier New", Monaco, Monospace;
-    margin: 48px;
+    margin: 0;
 }
 
 h1 {
@@ -10,10 +9,10 @@ h1 {
 }
 
 .top{
+    background-color: #1F2937;
     display: flex;
     flex-flow: column nowrap;
-    gap: 40px;
-    margin: 0 10%;
+    padding: 50px 150px;
 }
 .t-one {
     display: flex;
