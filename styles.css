@@ -27,6 +27,13 @@ ul {
     font-size: 18px;
 }
 
+button  {
+    background-color: #3882f6;
+    border-radius: 15px;
+    padding: 10px 20px;
+    font-size: 15px;
+}
+
 .cat {
    max-width: 40%;
    height: 60%;
@@ -48,10 +55,6 @@ h2 {
     margin: 0;
 }
 
-.s-one {
-    display: flex;
-}
-
 h3 {
     font-size: 36px;
     font-weight: extra-bold;
@@ -68,7 +71,7 @@ img {
 .s-one {
     display: flex;
     justify-content: space-between;
-    padding: 0px 50px;
+    padding: 0px 50px 50px;
 }
 
 .car, .climbing, .chocolate, .confetti {
@@ -79,4 +82,15 @@ img {
     justify-content: space-between;
     width: 200px;
     height: 200px;
+}
+
+.third {
+    background-color: #E5E7EB;
+    padding: 50px 150px;
+}
+
+.quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: light italic;
 }
