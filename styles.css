@@ -94,3 +94,29 @@ img {
     font-size: 36px;
     font-style: light italic;
 }
+
+.blue-box {
+    background-color: #3882f6;
+    padding: 40px 100px;
+    margin: 50px 150px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.alltext {
+    color: #F9FAF8;
+}
+
+.biggertext {
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.fifth {
+   background-color: #1F2937;
+   color: #F9FAF8;
+   text-align: center;
+   padding: 30px 60px;
+}
